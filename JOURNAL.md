@@ -11,3 +11,6 @@ So I've designed a hackpad before but I never finished it (I started it 24 hours
 ![image](https://github.com/user-attachments/assets/0e0e3a0a-f883-4670-a503-49c5fa371f86)
 
 **Total time spent: 1 hour**
+
+# June 11th: Designing the Case
+I usually use Solidworks, however I hate running it on my laptop so I used OnShape. 
