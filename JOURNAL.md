@@ -13,4 +13,5 @@ So I've designed a hackpad before but I never finished it (I started it 24 hours
 **Total time spent: 1 hour**
 
 # June 11th: Designing the Case
-I usually use Solidworks, however I hate running it on my laptop so I used OnShape. 
+~~I usually use Solidworks, however I hate running it on my laptop so I used OnShape.~~
+So I used Solidworks to CAD my case because it's what I'm most familiar with. For my outline, I used the same vector I drew in Figma that I also used for my PCB.
