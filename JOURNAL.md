@@ -18,3 +18,9 @@ So I used Solidworks to CAD my case because it's what I'm most familiar with. Fo
 ![image](https://github.com/user-attachments/assets/6794f947-338c-4f41-84d6-6a8d7733b25d)
 
 **Total time spent: 3 hours** (I was on call)
+
+# June 12th: Finishing CADing 
+I finished the bottom case and that's about it. I didn't have a lot of time to work on much more. 
+![image](https://github.com/user-attachments/assets/469f5491-21eb-4a18-b0e0-f4481120b29c)
+
+**Total time spent: 10 minutes**
