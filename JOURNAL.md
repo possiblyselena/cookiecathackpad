@@ -21,7 +21,7 @@ I used Solidworks to CAD my case because it's what I'm most familiar with. For m
 
 **Total time spent: 3 hours** (I was on call)
 
-# June 12th: Finishing CADing 
+# June 12th: Finishing CAD
 I finished the bottom case and that's about it. I didn't have a lot of time to work on much more. 
 ![image](https://github.com/user-attachments/assets/469f5491-21eb-4a18-b0e0-f4481120b29c)
 
