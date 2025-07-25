@@ -4,7 +4,7 @@ author: "Selena"
 description: "Cookie Cat, but as a Mini Keyboard!"
 created_at: "2024-06-04"
 ---
-# **Total time spent: 6 hours**
+# **Total time spent: 8 hours**
 
 # June 4th: Designing the Schematic and PCB
 So I've designed a hackpad before but I never finished it (I started it 24 hours before the deadline) so when starting the schematic and PCB, it didn't take too long. I finished pretty quickly, so all I need to do is finish CADing the case and configure the keys.
@@ -31,4 +31,10 @@ I finished the bottom case and that's about it. I didn't have a lot of time to w
 So, I would usually assemble this in Solidworks or alternativley OnShape, but my computer really hates both softwares right after I finished my parts. So, the best thing I can do is in TinkerCAD... Atleast it's a STL file and it works.
 ![image](https://github.com/user-attachments/assets/8539fee5-0e1a-4a12-94b3-f95ca0d1aa20)
 **Total time spent: 20 minutes**
+
+# July 22-24: Soldering and assembly
+
+After waiting a whole month to get my parts, I finally assembled it! It took 2 pcbs and some burnt hair but I'm pretty proud of how it turned out. The bottom case was actually too short, so I had to cut the top part off to plug the hackpad in.   
+<img width="701" height="654" alt="image" src="https://github.com/user-attachments/assets/a036889e-28ea-4b7b-9038-adf2e4d2b2ef" />
+**Total time spent: 2 hours**
 
