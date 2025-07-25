@@ -36,5 +36,6 @@ So, I would usually assemble this in Solidworks or alternativley OnShape, but my
 
 After waiting a whole month to get my parts, I finally assembled it! It took 2 pcbs and some burnt hair but I'm pretty proud of how it turned out. The bottom case was actually too short, so I had to cut the top part off to plug the hackpad in.   
 <img width="701" height="654" alt="image" src="https://github.com/user-attachments/assets/a036889e-28ea-4b7b-9038-adf2e4d2b2ef" />
+
 **Total time spent: 2 hours**
 
