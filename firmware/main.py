@@ -15,7 +15,7 @@ keyboard.matrix = KeysScanner(
 )
 
 keyboard.keymap = [
-    [KC.ENTER, KC.LFCTRL, KC.AT, KC.Y, KC.C, KC.V,]
+    [KC.ENTER, KC.LCTRL, KC.AT, KC.Y, KC.C, KC.V,]
 ]
 
 if __name__ == '__main__':
