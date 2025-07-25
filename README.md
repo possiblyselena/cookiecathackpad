@@ -1,4 +1,6 @@
 # Cookie Cat Hackpad! 
+<img width="699" height="691" alt="image" src="https://github.com/user-attachments/assets/ba5ebc96-a883-4a5f-b7e9-50cb3d97ff8d" />
+
 This is a project for Highway based on the YSWS hackpad! It's inspired by Steven Universe, one of my favourite shows growing up featuring 6 switches in a case that resembles cookie cat. The switches are mapped so I can copy and paste easier since my laptop is missing it's left control keycap. This is my first project, aside from solder for highway and I'm super excited to see what else I'll build!
 
 # Schematic and PCB
